@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#ace000</color>
+    <color name="colorPrimaryDark">#ace0</color>
+    <color name="colorAccent">#aceddd</color>
+    <color name="colorButtonNormal" id="button6">#fd35</color> <!--only available in api 23 :(-->
 </resources>
